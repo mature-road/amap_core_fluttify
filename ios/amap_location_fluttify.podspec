@@ -17,7 +17,7 @@ A new flutter plugin project.
   s.dependency 'Flutter'
   s.dependency 'foundation_fluttify'
   # flutter plugin dependency
-  s.dependency 'amap_core_fluttify'
+  # s.dependency 'amap_core_fluttify'
   # sdk dependency
   s.dependency 'AMapLocation-NO-IDFA', '2.6.7'
 
