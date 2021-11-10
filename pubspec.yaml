@@ -15,10 +15,10 @@ dependencies:
   foundation_fluttify: ^0.11.0
   core_location_fluttify: ^0.6.0
 
-  amap_core_fluttify:
-    git:
-      url: https://github.com/mature-road/amap_core_fluttify
-      ref: master
+  #amap_core_fluttify:
+  #  git:
+  #    url: https://github.com/mature-road/amap_core_fluttify
+#    ref: master
 
 dev_dependencies:
   flutter_test:
